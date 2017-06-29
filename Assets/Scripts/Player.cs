@@ -6,6 +6,7 @@ public class Player : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
+        print("change 1");
         print("change 2");
 	}
 	
