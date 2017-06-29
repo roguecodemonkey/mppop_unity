@@ -8,7 +8,7 @@ public class Player : MonoBehaviour {
 	void Start () {
         print("change 1");
         print("change 2");
-        print("change 3");
+        print("change 5");
 	}
 	
 	// Update is called once per frame
